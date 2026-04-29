@@ -2,8 +2,8 @@
 """
 Mini Project Assignment 4: Feature-Based Traffic Monitoring System
 
-Student Name: N.Yugesh
-Roll No: 2301010199
+Student Name: Nishant
+Roll No: 2301010182
 Course: Image Processing & Computer Vision
 Assignment Title: Object Representation and Feature Extraction for Traffic Images
 Date: April 23, 2026
