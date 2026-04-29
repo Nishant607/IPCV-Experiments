@@ -2,8 +2,8 @@
 """
 Mini Project Assignment 5: Intelligent Image Enhancement & Analysis System (CAPSTONE)
 
-Student Name: N.Yugesh
-Roll No: 2301010199
+Student Name: Nishant
+Roll No: 2301010182
 Course: Image Processing & Computer Vision
 Assignment Title: Designing an End-to-End Intelligent Image Processing System using Python
 Date: April 23, 2026
