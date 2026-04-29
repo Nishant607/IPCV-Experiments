@@ -2,8 +2,8 @@
 """
 Mini Project Assignment 2: Image Restoration for Surveillance Camera Systems
 
-Student Name: N.Yugesh
-Roll No: 2301010199
+Student Name: Nishant
+Roll No: 2301010182
 Course: Image Processing & Computer Vision
 Assignment Title: Noise Modeling and Image Restoration using Python
 Date: April 23, 2026
