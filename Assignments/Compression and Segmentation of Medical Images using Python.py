@@ -2,8 +2,8 @@
 """
 Mini Project Assignment 3: Medical Image Compression & Segmentation System
 
-Student Name: N.Yugesh
-Roll No: 2301010199
+Student Name: Nishant
+Roll No: 2301010182
 Course: Image Processing & Computer Vision
 Assignment Title: Compression and Segmentation of Medical Images using Python
 Date: April 23, 2026
