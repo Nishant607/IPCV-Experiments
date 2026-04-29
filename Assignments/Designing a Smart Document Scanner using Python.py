@@ -2,8 +2,8 @@
 """
 Mini Project Assignment 1: Smart Document Scanner & Quality Analysis System
 
-Student Name: N.Yugesh
-Roll No: 2301010199
+Student Name: Nishant
+Roll No: 2301010182
 Course: Image Processing & Computer Vision
 Assignment Title: Designing a Smart Document Scanner using Python
 Date: April 23, 2026
